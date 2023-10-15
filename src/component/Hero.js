@@ -43,7 +43,7 @@ const ShoeCompanyHero = () => {
       {/* Hero Content */}
       <div style={heroSectionStyle}>
         <h1 style={{ fontSize: '2.5rem',color: 'black', fontWeight: 'bold', marginBottom: '20px' }}>Discover Our Latest Shoe Collection</h1>
-        <p style={{ fontSize: '1.25rem',color: 'black', marginBottom: '40px' }}>Step into style and comfort with our premium footwear.</p>
+        <p style={{ fontSize: '1.25rem',color: '', marginBottom: '40px' }}>Step into style and comfort with our premium footwear.</p>
         <a href="/shop" style={{ backgroundColor: 'blue', color: 'white', fontSize: '1.25rem', padding: '10px 20px', borderRadius: '30px', textDecoration: 'none' }}>Shop Now</a>
       </div>
     </div>
